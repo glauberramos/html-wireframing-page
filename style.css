@@ -1,0 +1,21 @@
+header {
+
+}
+
+header ul {
+	list-style: none;
+	text-align: center;
+}
+
+header li {
+	display: inline-block;
+	margin-right: 7em;
+}
+
+img {
+	width: 65%;
+	margin: 0 auto;
+	display: block;
+	margin-top: 3em;
+	border: 7px solid #eee;
+}
